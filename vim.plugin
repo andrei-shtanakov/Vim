@@ -1,0 +1,8 @@
+{
+  "module": "Vim",
+  "class": "Vim",
+  "authors": "Wil Linebaugh <wil.linebaugh@gmail.com>",
+  "version": "0.1",
+  "url": "",
+  "description": "Vim Plugin"
+}
