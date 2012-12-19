@@ -1,0 +1,7 @@
+{
+  "venv": "", 
+  "project-type": "NINJA-Plugin-Project", 
+  "name": "Vim", 
+  "license": "GNU General Public License v3", 
+  "description": ""
+}
